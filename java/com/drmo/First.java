@@ -6,6 +6,8 @@ public class First {
 	First l;
 	 static int m=100;
 	 
+	 String Deels:
+	 
 	 
 	int[] a= {35, 67,78, 99};
 	//			0 1  2 3   a[0]
